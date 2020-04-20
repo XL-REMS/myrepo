@@ -2,8 +2,7 @@
 title: "1st r markdown"
 author: "xl_rems"
 date: "4/20/2020"
-output: html_document:
-  keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
